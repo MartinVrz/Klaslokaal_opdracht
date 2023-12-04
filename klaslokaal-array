@@ -27,7 +27,7 @@
  
  ];
 echo "<ul>";
- foreach ($games as $Lokalen){
+ foreach ($Lokaal as $Lokalen){
     echo "<li>" . $Lokaal['naam'] . " - $" . $game['prijs'] . "</li>";
    
  }
